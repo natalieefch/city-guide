@@ -1,0 +1,28 @@
+---
+title: "Daytrips from Hamburg"
+format: html
+editor: visual
+author: natalieefch
+URL: https://github.com/natalieefch
+category: suggestions
+---
+
+## 
+
+There's multiple beautiful towns close to Hamburg that can be reached with public transport
+
+## Suggestions
+
+Lübeck \~ 45 mins by train
+
+Lüneburg \~ 30 mins by train
+
+Schwerin \~ 1 hour by train
+
+## What to do?
+
+-   Visit the beach closeby to Lübeck
+
+-   Take a stroll through the old town of Lüneburg
+
+-   Visit Schwerin castle
